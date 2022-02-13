@@ -1,7 +1,7 @@
 {
   "name": "Blvck-Userbot",
   "description": "[Blvck-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "logo": "https://telegra.ph/file/f34b3764975c1fd2f2e9d.jpg",
   "keywords": ["telegram", "userbot", "Blvck-userbot", "modular", "python"],
   "repository": "https://github.com/MatrixBotz/ZeployBlvck",
   "stack": "container",
