@@ -1,9 +1,9 @@
 FROM mrismanaziz/man-userbot:buster
 
-RUN git clone -b main https://github.com/MatrixBotz/Zeployman /home/zeployman/ \
-    && chmod 777 /home/zeployman \
-    && mkdir /home/zeployman/bin/
+RUN git clone -b main https://github.com/Zxseus/Blvck-Userbot /home/main/ \
+    && chmod 777 /home/main \
+    && mkdir /home/main/bin/
 
-WORKDIR /home/zeployman/
+WORKDIR /home/main/
 
 CMD [ "bash", "start" ]
