@@ -91,5 +91,5 @@ Follow Channel [@Blvckcards](https://t.me/Blvckcards) untuk info Update bot dan 
 Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zxseus/Blvck-Userbot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zxseus/Sower)</br>
 #Blvck-Userbot
